@@ -1,0 +1,12 @@
+2019-11-29 10:42:21.090 [main] INFO  tp1.Animal - Creation nouvel animal : Canin
+2019-11-29 10:42:21.115 [main] INFO  tp1.Animal - Ajout animal dans secteur : Secteur : CaninAnimal : Canin
+2019-11-29 10:42:21.115 [main] INFO  tp1.Animal - Creation nouvel animal : Canin
+2019-11-29 10:42:21.116 [main] INFO  tp1.Animal - Ajout animal dans secteur : Secteur : CaninAnimal : Canin
+2019-11-29 10:42:21.120 [main] INFO  tp1.Animal - Creation nouvel animal : Canin
+2019-11-29 10:42:21.120 [main] INFO  tp1.Animal - Ajout animal dans secteur : Secteur : CaninAnimal : Canin
+2019-11-29 10:42:21.121 [main] INFO  tp1.Animal - Creation nouvel animal : Canin
+2019-11-29 10:42:21.121 [main] INFO  tp1.Animal - Ajout animal dans secteur : Secteur : CaninAnimal : Canin
+2019-11-29 10:42:21.121 [main] INFO  tp1.Animal - Creation nouvel animal : Felin
+2019-11-29 10:42:21.121 [main] INFO  tp1.Animal - Ajout animal dans secteur : Secteur : FelinAnimal : Felin
+2019-11-29 10:42:21.122 [main] INFO  tp1.Animal - Creation nouvel animal : Bovin
+2019-11-29 10:42:21.123 [main] FATAL tp1.Animal - Pb type animal dans secteur : Secteur : FelinAnimal : Bovin
